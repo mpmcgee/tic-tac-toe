@@ -1,3 +1,7 @@
+.git/
+.idea/
+.out/
+tictactoe.iml
 # Compiled class file
 *.class
 
